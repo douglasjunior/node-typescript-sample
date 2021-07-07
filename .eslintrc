@@ -30,6 +30,7 @@
             "warn",
             120
         ],
+        "no-lonely-if": "off",
         "padded-blocks": [
             "error",
             {
