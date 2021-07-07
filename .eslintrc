@@ -14,7 +14,9 @@
     },
     "globals": {
         "FormData": false,
-        "__DEV__": false
+        "__DEV__": false,
+        "test": false,
+        "expect": false
     },
     "rules": {
         "no-console": [

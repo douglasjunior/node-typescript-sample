@@ -1,3 +1,3 @@
-export const testeHelper = (name: String) => {
-    return `Seu ID é: ${name}`;
+export const testeHelper = (id: Number) => {
+    return `Seu ID é: ${id}`;
 };
